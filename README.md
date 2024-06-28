@@ -14,6 +14,11 @@ docker compose up -d
 5. Ejecutar `npm run dev`
 6. Ejecutar el seed para [crear la base de datos](localhost:3000/api/seed)
 
+## Nota
+
+usuario: test1@google.com
+password: 123456
+
 # Prisma commands
 
 ```

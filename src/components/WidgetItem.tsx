@@ -2,7 +2,7 @@ import React from "react";
 
 interface Props {
   title: string;
-  children: React.ReactNode;
+  children?: React.ReactNode;
 }
 const WidgetItem = ({ title, children }: Props) => {
   return (
